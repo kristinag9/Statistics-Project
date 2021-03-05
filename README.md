@@ -1,4 +1,4 @@
-# Statistics - Final Project
+# Statistics - practicum, final project
 The repository contains three files:
 - script with the code written in R;
 - document with text description;
